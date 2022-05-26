@@ -1,0 +1,13 @@
+/*images*/
+img{
+    max-width: 60% !important;
+}
+
+/*rating color*/
+.fa-star,.fa-star-half{
+    color: yellowgreen;
+    padding: 3% 0;
+}
+
+
+
